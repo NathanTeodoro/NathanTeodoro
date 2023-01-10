@@ -6,7 +6,7 @@ gosto muito de desenvolvimento web no geral front
 e back e tenho uma curiosidade em softwares também!
 <div>
 <img src="./assets/css.png" width="100px" margin="5px">
-<img src="./assets/html.png" width="100px" margin="5px">
+<img src="./assets/html5.png" width="100px" margin="5px">
 <img src="./assets/js.png" width="100px" margin="5px">
 <img src="./assets/node.png" width="100px" margin="5px">
 <img src="./assets/python.png" width="100px" margin="5px">
