@@ -4,10 +4,10 @@
 Sou Nathan um estudante de Gestão em T.I, 
 gosto muito de desenvolvimento web no geral front 
 e back e tenho uma curiosidade em softwares também!
-<div>
-<img src="./assets/html5.png" width="90px" margin="5px">
-<img src="./assets/css.png" width="90px" margin="5px">
-<img src="./assets/js.png" width="90px" margin="5px">
-<img src="./assets/node.png" width="90px" margin="5px">
-<img src="./assets/python.png" width="90px" margin="5px">
+<div margin-bottom="10px">
+<img src="./assets/html5.png" width="90px" >
+<img src="./assets/css.png" width="90px" >
+<img src="./assets/js.png" width="90px" >
+<img src="./assets/node.png" width="90px" >
+<img src="./assets/python.png" width="90px" >
 </div>
