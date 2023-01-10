@@ -4,7 +4,8 @@
 Sou Nathan um estudante de Gestão em T.I, 
 gosto muito de desenvolvimento web no geral front 
 e back e tenho uma curiosidade em softwares também!
-<div margin-bottom="10px">
+<br>
+<div margin-top="25px">
 <img src="./assets/html5.png" width="90px" >
 <img src="./assets/css.png" width="90px" >
 <img src="./assets/js.png" width="90px" >
